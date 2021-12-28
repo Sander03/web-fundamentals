@@ -1,0 +1,79 @@
+body {
+    background-image: url(../img/background6.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:auto;
+}
+
+.space{
+    background-image: url(../img/perkament.jpeg) !important;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 80px;
+    width: 475px;
+    height: 580px;
+}
+
+#emblem { 
+    padding: auto;
+    position:center;
+    width: 280px;
+    height: 280px;
+}
+
+.button{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: 10px;
+    padding: 20px;
+    position: relative;
+}
+
+#add-person{
+    text-align: center;
+    height: 80px;
+    width: 400px;
+}
+
+#put-people{
+    height: 80px;
+    width: 400px;
+    padding:auto;
+}
+
+.acc-creation {
+    text-align: left;
+    margin-left: 10px;
+}
+
+#button-accComplete {
+    height: 80px;
+    width: 400px;
+}
+
+#put-people-completion{
+    height: 80px;
+    width: 400px;
+    padding:auto;
+    padding:auto;
+    position: relative;
+}
+
+#foto-check{
+    margin:auto;
+    bottom: 10px;
+    top: 500px;
+}
+
+.button-house{
+    height: 500px;
+    width: 200px;
+    margin:auto;
+    padding:auto;
+}
+
+.choose-gender {
+    width: 100px;
+}
+    
